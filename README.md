@@ -528,7 +528,5 @@ Interested in **AI, Machine Learning, Generative AI, RAG, and NLP**.
 
 ---
 
-## ⭐ If you find this project useful
 
-Feel free to star ⭐ the repository and explore the code.
 
